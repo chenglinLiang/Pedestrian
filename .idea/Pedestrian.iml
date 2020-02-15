@@ -12,6 +12,9 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/pedestrian/templates" />
+        <option value="$MODULE_DIR$/pedestrian/templates/console" />
+        <option value="$MODULE_DIR$/pedestrian/templates/site" />
+        <option value="$MODULE_DIR$/pedestrian/templates/auth" />
       </list>
     </option>
   </component>
