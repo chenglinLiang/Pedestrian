@@ -12,5 +12,6 @@ def index():
 def test():
     return u'hello world'
 
+
 if __name__ == '__main__':
     app.run()
